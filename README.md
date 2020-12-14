@@ -19,4 +19,4 @@
 <img src="https://img.shields.io/badge/C%2B%2B-11-green"/></a> -->
 
 #### -TODO(My algorithm study level) Let go...
-[![Solved.ac ytam1208](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytam1208)](https://solved.ac/ytam1208)
+[![Solved.ac ytam](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytam)](https://solved.ac/ytam)
