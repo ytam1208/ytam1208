@@ -7,7 +7,7 @@
 - &nbsp; Sports wear Lover 
 - &nbsp; Dost thou love life?
 
-#### -Languages
+#### Languages
 [![Ubuntu](https://img.shields.io/badge/ubuntu-16.04-red?style=plastic&logo=Ubuntu)](https://github.com/nlohmann/json/actions?query=workflow%3AUbuntu) 
 ![ROS](https://img.shields.io/badge/ROS-kinetic-lightgrey?style=plastic&logo=ROS)
 ![PYTHON](https://img.shields.io/badge/PYTHON-rospy-lightgrey?style=plastic&logo=Python) 
@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/ROS-kinetic-blue"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-11-green"/></a> -->
 
-#### -TODO(My algorithm study level) Let go...
+#### ToDo(My algorithm study level) Let go...
 [![Solved.ac ytam](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytam)](https://solved.ac/ytam)
