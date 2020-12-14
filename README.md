@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Taemin Yeon
-:wave: Hi there, My name is taemin yeon is a Robot developer & Artificial Intelligence(AI) student. He dreams to change the world while working with interesting people and amazing projects. 
+:wave: Hi there, My name is taemin yeon is a Robot engineer & Artificial Intelligence(AI) student. He dreams to change the world while working with interesting people and amazing projects. 
 
 - &nbsp; Robot Operating System(ROS) Developer & Artificial Intelligence(AI) student
 - &nbsp; Sports wear Lover 
