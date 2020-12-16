@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/ROS-kinetic-blue"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-11-green"/></a> -->
 
-#### ToDo(My algorithm study level) Let go...
+#### ToDo
 [![Solved.ac ytam](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytam)](https://solved.ac/ytam)
