@@ -7,15 +7,15 @@
 - &nbsp; Sports wear Lover 
 - &nbsp; Dost thou love life?
 
-#### Languages
-[![Ubuntu](https://img.shields.io/badge/ubuntu-16.04-red?style=plastic&logo=Ubuntu)](https://github.com/nlohmann/json/actions?query=workflow%3AUbuntu) 
-![ROS](https://img.shields.io/badge/ROS-kinetic-lightgrey?style=plastic&logo=ROS)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-16.04-red?style=plastic&logo=Ubuntu)](https://github.com/nlohmann/json/actions?query=workflow%3AUbuntu)
 ![PYTHON](https://img.shields.io/badge/PYTHON-rospy-lightgrey?style=plastic&logo=Python) 
 ![C++](https://img.shields.io/badge/C%2B%2B-11-lightgrey?style=plastic&logo=C)  
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
-<!-- <img src="https://img.shields.io/badge/ubuntu-16.04-orange"/></a>
-<img src="https://img.shields.io/badge/ROS-kinetic-blue"/></a>
-<img src="https://img.shields.io/badge/C%2B%2B-11-green"/></a> -->
 
 Share information with me [my blog](https://yeonblog.tistory.com/) 
