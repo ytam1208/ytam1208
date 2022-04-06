@@ -1,21 +1,27 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yeon%20&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Thank%20you%20for%20visiting%20my%20Github!&descAlignY=53&descAlign=52)
 ### Taemin Yeon
 :wave: Hi there, My name is taemin yeon is a Robot engineer & Artificial Intelligence(AI) student. He dreams to change the world while working with interesting people and amazing projects. 
 
-- &nbsp; Robot Operating System(ROS) Developer & Artificial Intelligence(AI) student
-- &nbsp; Sports wear Lover 
-- &nbsp; Dost thou love life?
+<h3 align="center"> Stack & Tool</h3>
 
-[![Ubuntu](https://img.shields.io/badge/ubuntu-16.04-red?style=plastic&logo=Ubuntu)](https://github.com/nlohmann/json/actions?query=workflow%3AUbuntu)
-![PYTHON](https://img.shields.io/badge/PYTHON-rospy-lightgrey?style=plastic&logo=Python) 
-![C++](https://img.shields.io/badge/C%2B%2B-11-lightgrey?style=plastic&logo=C)  
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+<img src="https://img.shields.io/badge/ROS-black?style=flat-square&logo=ROS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-green?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIM-green?style=flat-square&logo=Vim&logoColor=white"/>
+</p>
+<br>
+<br>
 
 
-Share information with me [my blog](https://yeonblog.tistory.com/) 
+<h3 align="center"> 🌱  Share information with me  </h3>
+
+<p align="center">
+<a href="https://yeonblog.tistory.com/"><img src= "https://img.shields.io/badge/-My blog%20-orange?logo=Internet Explorer?logoColor=orange"></a>&nbsp
+<a href="https://yeonblog.tistory.com/3"><img src= "https://img.shields.io/badge/-About me%20-white?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
+</p>
