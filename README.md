@@ -16,14 +16,6 @@
 <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VIM-green?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
-<br>
-<br>
-
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytam1208&show_icons=true&theme=radical)
-
-[![ytam1208 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ytam1208&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ytam1208)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytam)](https://solved.ac/ytam/)
-
 
 <h3 align="center"> 🌱  Share information with me  </h3>
 
@@ -31,5 +23,14 @@
 <a href="https://yeonblog.tistory.com/"><img src= "https://img.shields.io/badge/-My blog%20-orange?logo=Internet Explorer?logoColor=orange"></a>&nbsp
 <a href="https://yeonblog.tistory.com/3"><img src= "https://img.shields.io/badge/-About me%20-white?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
 </p>
+
+<br>
+<br>
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytam1208&show_icons=true&theme=radical)
+
+[![ytam1208 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ytam1208&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ytam1208)
+
+
 
 <br>
