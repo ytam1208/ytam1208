@@ -6,14 +6,18 @@
 <h3 align="center"> Stack & Tool</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROS-black?style=flat-square&logo=ROS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacOS-black?style=flat-square&logo=macos&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-green?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-black?style=flat-square&logo=ROS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=Jupyter&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/C-green?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=C++&logoColor=white"/>
+<br> 
+<img src="https://img.shields.io/badge/Vscode-purple?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VIM-green?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
 
@@ -22,6 +26,8 @@
 <p align="center">
 <a href="https://yeonblog.tistory.com/"><img src= "https://img.shields.io/badge/-My blog%20-orange?logo=Internet Explorer?logoColor=orange"></a>&nbsp
 <a href="https://yeonblog.tistory.com/3"><img src= "https://img.shields.io/badge/-About me%20-white?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
+<a href="https://yeonblog.tistory.com/3"><img src= "https://img.shields.io/badge/-Linkedin%20-blue?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
+
 </p>
 
 <br>
