@@ -21,13 +21,6 @@
 <img src="https://img.shields.io/badge/VIM-green?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
 
-<h3 align="center"> 🌱  Share information with me  </h3>
-
-<p align="center">
-<a href="https://yeonblog.tistory.com/"><img src= "https://img.shields.io/badge/-My blog%20-orange?logo=Internet Explorer?logoColor=orange"></a>&nbsp
-<a href="https://yeonblog.tistory.com/3"><img src= "https://img.shields.io/badge/-About me%20-white?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
-<a href="https://www.linkedin.com/in/%ED%83%9C%EB%AF%BC-%EC%97%B0-881b90235/"><img src= "https://img.shields.io/badge/-Linkedin%20-blue?logo=Internet Explorer?logoColor=orange"></a>&nbsp  
-
 </p>
 
 <br>
